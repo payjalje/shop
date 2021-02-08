@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ecomplus/storefront.git",
+    "url": "git+https://github.com/payjalje/shop.git",
     "directory": "@ecomplus/storefront-template"
   },
   "keywords": [
