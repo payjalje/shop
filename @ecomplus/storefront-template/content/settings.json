@@ -1,6 +1,6 @@
 {
-  "domain": "storefront-demo.e-com.plus",
-  "currency_symbol": "R$",
+  "domain": "telcohub.my",
+  "currency_symbol": "RM",
   "primary_color": "#e83e8c",
   "theme": {
     "bootswatch": "_",
@@ -8,16 +8,16 @@
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.webp",
-  "name": "My Shop",
-  "short_name": "MyShop",
-  "lang": "pt_br",
-  "currency": "BRL",
+  "name": "TelcoHUB",
+  "short_name": "TelcoHUB",
+  "lang": "en_us",
+  "currency": "MYR",
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
-  "country_code": "BR",
+  "country_code": "MY",
   "secondary_color": "#333333",
   "icon": "/img/icon.png",
   "store_id": 1011,
-  "description": "My PWA Shop",
+  "description": "Malaysian Telco One Stop Centre | TelcoHUB",
   "large_icon": "/img/large-icon.png"
 }
