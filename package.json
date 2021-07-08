@@ -45,7 +45,7 @@
     "browser-sync": "^2.26.13",
     "caniuse-lite": "^1.0.30001157",
     "clean-webpack-plugin": "^3.0.0",
-    "css-loader": "^3.6.0",
+    "css-loader": "^5.2.6",
     "cssnano": "^4.1.10",
     "eslint": "^7.13.0",
     "eslint-plugin-vue": "^7.1.0",
